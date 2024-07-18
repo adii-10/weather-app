@@ -20,7 +20,6 @@ The Real-Time Weather App is a web application built using React.js that provide
 ## Screenshots
 
 ![Screenshot 1](./pic/pic1.png)
-![Screenshot 2](./pic/pic2.png)
 
 ## Technologies Used
 
