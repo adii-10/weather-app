@@ -14,12 +14,13 @@ The Real-Time Weather App is a web application built using React.js that provide
 
 ## Demo
 
-[Link to your live demo]
+[View the live demo](https://adii-10.github.io/weather-app/)
+
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
+![Screenshot 1](./pic/pic1.png)
+![Screenshot 2](./pic/pic2.png)
 
 ## Technologies Used
 

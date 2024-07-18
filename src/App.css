@@ -1,0 +1,6 @@
+.glossy-gradient-bg {
+  background: linear-gradient(to bottom, #002C59, #33A0B6, #D9A9DF);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
